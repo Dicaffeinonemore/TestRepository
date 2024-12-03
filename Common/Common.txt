@@ -1,2 +1,6 @@
 1.Main에서 작성
-2.Board에서 작성
+
+2.Member에서 작성
+
+3.Board에서 작성
+
